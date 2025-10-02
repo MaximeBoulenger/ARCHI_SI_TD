@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>UniversiteDomain</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Folder Include="UseCases\EtudiantUseCases\Delete\" />
+        <Folder Include="UseCases\EtudiantUseCases\Get\" />
+        <Folder Include="UseCases\EtudiantUseCases\Update\" />
+    </ItemGroup>
+
+</Project>
