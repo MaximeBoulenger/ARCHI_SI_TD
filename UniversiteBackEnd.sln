@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{AB0C7A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversiteDomain", "UniversiteDomain\UniversiteDomain.csproj", "{FD694F15-42F2-4874-8D7E-373FA979D659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversiteDomainUnitTest", "UniversiteDomainUnitTest\UniversiteDomainUnitTest.csproj", "{ABB11A40-BCC4-40E6-8A39-CFD8B551964D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{FD694F15-42F2-4874-8D7E-373FA979D659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD694F15-42F2-4874-8D7E-373FA979D659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD694F15-42F2-4874-8D7E-373FA979D659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB11A40-BCC4-40E6-8A39-CFD8B551964D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB11A40-BCC4-40E6-8A39-CFD8B551964D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB11A40-BCC4-40E6-8A39-CFD8B551964D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB11A40-BCC4-40E6-8A39-CFD8B551964D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
